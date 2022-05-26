@@ -1,7 +1,7 @@
 package co.edu.udem.userstoriesnlp.service;
 
-import Exceptions.InvalidRequestException;
-import Exceptions.NotFoundException;
+import co.edu.udem.userstoriesnlp.exceptions.InvalidRequestException;
+import co.edu.udem.userstoriesnlp.exceptions.NotFoundException;
 import co.edu.udem.userstoriesnlp.entities.UserStory;
 import co.edu.udem.userstoriesnlp.repositories.UserStoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;

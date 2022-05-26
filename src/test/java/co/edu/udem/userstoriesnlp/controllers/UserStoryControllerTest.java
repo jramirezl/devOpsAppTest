@@ -1,6 +1,6 @@
 package co.edu.udem.userstoriesnlp.controllers;
 
-import Exceptions.NotFoundException;
+import co.edu.udem.userstoriesnlp.exceptions.NotFoundException;
 import co.edu.udem.userstoriesnlp.entities.UserStory;
 import co.edu.udem.userstoriesnlp.repositories.UserStoryRepository;
 import co.edu.udem.userstoriesnlp.service.UserStoryServiceImpl;
