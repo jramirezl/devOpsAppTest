@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alpine-flare-278414",
+  "private_key_id": "ff0e669c054cffa1451872653b06be7028be829b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgm99pSknY+WIr\nLd8J5RRgtMrLm0EYOLe8CDpdyqb5sx9dgWms+smf9RVNgE5HCRSNqsJX8nn28KcI\nxyyTJqAZ/Tk8KQBg33dmEaCi8OU8rHvEsAho4Sw+yVidezxlnV90LEJH4w7vGuel\nTIDYzerR6PCdKsLopQOa6sfeWeO4aUF9TYsUEf8+RKGKR7ZZKtzgJZ3leiczGDSu\nhn5txARMcoqztywNE96nJw1ZHwdmH9Nue0NAjWb71HOIbLC9O0bv1A5ClllwhIzV\n/no6TVtpglPjfRrV9wTcipWToyM/ctW4vYdGxmfYzem0aR/1yaYS91M28g2JQy7r\nXraJ1BejAgMBAAECggEAE1VQGmuP4id68rmt3JIP1uhMdR/2QQUq0N6or/uiB/LQ\n9r+KSgFSXgfxjYfBZHmqWLdSd6W/msMzSDI5omkG4roBtsU0v3SG+elrTdHztk8J\nAw8xo/ZfDhvMqABar9y2zdQ6Ek85z/yMH/DKnc6D0srYlAK+vaSHf5F9h72IVP1d\nosW+jqTvlU7wddzzhzLVVxLS5q7FOpoCUjLNuxAMGMvZo4IqdoGUZvV93ty4i3+4\nGPPQxwUgnlQ86EfHNJAzEuwo/gtC7pk2kEDtEqTkuj8Q7iXBlYraIWDTWAlWGxBp\nv8a1QmPTcN/XpnVK+ctA7SaJmeDW9huyDnXujuLagQKBgQDcBkodQn25WrAMVS4B\nRlo1hfJJpf11MrrROlcgPnYdsMRNguE1ki1JTVRubl5khNXQUuugTdJFO6fchn7I\nJXjvTKvc2k2Rztcep3mmAVQcqyv1InA3gbGk44YFFEwKF0wrt5XygkzAUE6IFx8d\nxINVF4OP+fzGCfRRqnCSNACH4wKBgQC63pUOE+yHwUvFoS3IBQMQXUcoMlKs1Gtg\nhs6zb5hvEQW+RCZobG0wo+j8CaiLgjvYL8fIwg8HB4ElxZUC9rpWwdjreG+wPU3b\n8hzx9f9Va/PxW33COGHP2oxpAowFHz4qA7xdRj2xHaE1u19QdawfMMC+IUOFpCZ1\nV8aNUVW9QQKBgQDCiUkUT8rLjLRlYxbXB7YQ5sqPdZUA/4aQIa4RE0jp/XXDNroa\n3JDv49CIB0usQoqts/MjfEsy7YkAgWYtXnxr0HWQQvAcwC4Rq2/yZ/BPnMSz6+we\nF6zSplzDtut4bJrreFm63pwv2ZFl4FOhxTN9k9m9/gERtJFxd2oqypHBkwKBgAVL\ng0u30s7x8jSyYXq2caTID9kau+77weMlTrwU4GvdPp1qjvAMineDXXmuyGDTmuCA\nUhflL8nSM52fYJ6J4TPOIFhjvD5xLkCaNqnAf7Cq82mWXxTexh6+oZXkJZWLkhZc\nrryx3dOj9Epyebvs6aikmAGLLb+erBxNFWoxsM1BAoGAIAneLekX9tTt5f440Wch\nHRs+jz7za9n5WembOKbqCoWioqakWCii6mSIWG9AO3cEniroW44jpG3wOuRYrE/7\nbzd4Y1eavaQTrrACZOKj77dOYwuX5DIiy73RKuuiYv6dTE3bP/2eQaCfAu0EUrNW\nDamMldRy2oEtXX8xNhmBF4o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nlpalpine-flare-278414@alpine-flare-278414.iam.gserviceaccount.com",
+  "client_id": "105215181625168550857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nlpalpine-flare-278414%40alpine-flare-278414.iam.gserviceaccount.com"
+}
