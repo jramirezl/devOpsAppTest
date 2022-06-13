@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/UserStoriesNLPApplication-0.0.1-SNAPSHOT.jar
+web: java -javaagent:/app/newrelic-agent-7.7.0.jar -Dserver.port=$PORT -jar target/UserStoriesNLPApplication-0.0.1-SNAPSHOT.jar
