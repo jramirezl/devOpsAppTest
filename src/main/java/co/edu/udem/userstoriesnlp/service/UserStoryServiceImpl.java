@@ -36,7 +36,7 @@ public class UserStoryServiceImpl implements UserStoryService {
   @Override
   public Optional<UserStory> getUserStory(Integer id) {
     var optionalRecord = userStoryRepository.findById(id);
-    if (optionalRecord.isEmpty()) {
+    if (optionalRecord == null || optionalRecord.isEmpty()) {
       logger.debug("User story with ID " + id + " does not exist.");
       throw new NotFoundException("User story with ID " + id + " does not exist.");
     }
